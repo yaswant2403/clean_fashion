@@ -8,6 +8,11 @@
         "id": "f1234ghi",
         "name": "ooo clothing",
         "rating": "5.2/10"
+    },
+    {
+        "id": "f123",
+        "name": "aaa clothing",
+        "rating": "7/10"
     }
      
 ]
