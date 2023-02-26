@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Hello Extensions",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "images/hello_extensions.png"
+    },
+    "browser_action": {
+        "default_icon": {                
+          "16": "images/emoji.png",     
+          "24": "images/emoji.png",
+          "32": "images/emoji.png"
+        },
+        "default_title": "Test",
+        "default_popup": "popups/popup.html"
+      }
+}
